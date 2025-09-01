@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   ![iagomuniz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iagomuniz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
 </div>
+
 - 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, Typescript, React**
 
 <h3 align="center">Languages and Tools:</h3>
