@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Iago Muniz</h1>
 
-<div display = "flex">
+<div display = "flex" justify-content= "center">
   
   ![iagomuniz's Stats](https://github-readme-stats.vercel.app/api?username=iagomuniz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
   
