@@ -16,23 +16,21 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Iago Muniz</h1>
 
-<div display = "flex" justify-content= "center">
+<div align = "center">
   
-  <div width = "100%">
-    
-    ![iagomuniz's Stats](https://github-readme-stats.vercel.app/api?username=iagomuniz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-    
-  </div>
+  ![iagomuniz's Stats](https://github-readme-stats.vercel.app/api?username=iagomuniz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-  <div width = "100%">
-    
+</div>
+
+<div align = "center">
+  
   ![iagomuniz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iagomuniz&theme=vue-dark&hide_border=true)
-  </div>
 
-  <div width = "100%">
-    
+</div>
+
+<div align = "center">
+  
   ![iagomuniz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iagomuniz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  </div>
 </div>
 
 - 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, Typescript, React**
